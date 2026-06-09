@@ -36,9 +36,9 @@ A good delivery process helps technical teams move with speed, but without losin
 
 ## Status
 
-Work in progress.
+Public portfolio version.
 
-This repository is part of my professional GitHub portfolio and will evolve as a practical reference for software delivery and technical team leadership.
+This repository is part of my professional GitHub portfolio and provides practical references for software delivery and technical team leadership.
 
 ## Author
 
