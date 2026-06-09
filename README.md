@@ -1,2 +1,50 @@
-# software-delivery-playbook
-Notes and templates for branching strategies, pull requests, code reviews, releases, and Definition of Done.
+# Software Delivery Playbook
+
+A lightweight software delivery playbook with notes, templates, and practical guidelines for technical teams.
+
+This repository is focused on improving delivery consistency, code review quality, release discipline, and team alignment.
+
+## Repository Contents
+
+- [Branching strategy](docs/branching-strategy.md)
+- [Pull request checklist](docs/pull-request-checklist.md)
+- [Code review guidelines](docs/code-review-guidelines.md)
+- [Release process](docs/release-process.md)
+- [Definition of Done](docs/definition-of-done.md)
+- [Pull request template](templates/pull-request-template.md)
+- [Release notes template](templates/release-notes-template.md)
+
+## Purpose
+
+The purpose of this playbook is to document simple and practical software delivery practices that help teams build, review, release, and maintain software with better structure and quality.
+
+## Focus Areas
+
+- Branching strategy
+- Pull request discipline
+- Code review quality
+- Release management
+- Definition of Done
+- Team alignment
+- Continuous improvement
+
+## Why this matters
+
+Software delivery is not only about writing code. It is also about creating a repeatable way of working that helps teams reduce errors, improve collaboration, and deliver value with more confidence.
+
+A good delivery process helps technical teams move with speed, but without losing control, traceability, quality, or business alignment.
+
+## Status
+
+Work in progress.
+
+This repository is part of my professional GitHub portfolio and will evolve as a practical reference for software delivery and technical team leadership.
+
+## Author
+
+**Anibal Arias**  
+Software Development Manager focused on technical leadership, software delivery, process improvement, and business-oriented technology solutions.
+
+- GitHub: [anibal-tech](https://github.com/anibal-tech)
+- LinkedIn: [anibal-arias](https://www.linkedin.com/in/anibal-arias)
+- Website: [tambormayor.com](https://tambormayor.com)
