@@ -12,9 +12,11 @@ This repository is focused on improving delivery consistency, code review qualit
 - [Release process](docs/release-process.md)
 - [Definition of Done](docs/definition-of-done.md)
 - [UAT readiness checklist](docs/uat-readiness-checklist.md)
+- [Cutover planning guide](docs/cutover-planning-guide.md)
 - [Pull request template](templates/pull-request-template.md)
 - [Release notes template](templates/release-notes-template.md)
 - [UAT sign-off template](templates/uat-signoff-template.md)
+- [Cutover plan template](templates/cutover-plan-template.md)
 
 ## Purpose
 
