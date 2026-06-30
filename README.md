@@ -14,11 +14,13 @@ This repository is focused on improving delivery consistency, code review qualit
 - [UAT readiness checklist](docs/uat-readiness-checklist.md)
 - [Cutover planning guide](docs/cutover-planning-guide.md)
 - [Hypercare runbook](docs/hypercare-runbook.md)
+- [RAID governance notes](docs/raid-governance-notes.md)
 - [Pull request template](templates/pull-request-template.md)
 - [Release notes template](templates/release-notes-template.md)
 - [UAT sign-off template](templates/uat-signoff-template.md)
 - [Cutover plan template](templates/cutover-plan-template.md)
 - [Hypercare tracker template](templates/hypercare-tracker-template.md)
+- [RAID log template](templates/raid-log-template.md)
 
 ## Purpose
 
