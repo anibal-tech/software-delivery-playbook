@@ -17,6 +17,7 @@ This repository is focused on improving delivery consistency, code review qualit
 - [RAID governance notes](docs/raid-governance-notes.md)
 - [Incident RCA template](docs/incident-rca-template.md)
 - [ERP migration stabilization checklist](docs/erp-migration-stabilization-checklist.md)
+- [Operational readiness checklist](docs/operational-readiness-checklist.md)
 - [Pull request template](templates/pull-request-template.md)
 - [Release notes template](templates/release-notes-template.md)
 - [UAT sign-off template](templates/uat-signoff-template.md)
@@ -24,7 +25,9 @@ This repository is focused on improving delivery consistency, code review qualit
 - [Hypercare tracker template](templates/hypercare-tracker-template.md)
 - [RAID log template](templates/raid-log-template.md)
 - [Post-incident review template](templates/post-incident-review-template.md)
+- [Operational handover template](templates/operational-handover-template.md)
 - [Sample incident review](examples/sample-incident-review.md)
+
 
 ## Purpose
 
