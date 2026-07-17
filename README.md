@@ -29,6 +29,31 @@ This repository is focused on improving delivery consistency, code review qualit
 - [Sample incident review](examples/sample-incident-review.md)
 
 
+## Best way to review this repository
+
+This repository is best reviewed as a practical delivery governance playbook.
+
+Recommended review path:
+
+1. Start with foundational delivery practices:
+   - [Branching strategy](docs/branching-strategy.md)
+   - [Pull request checklist](docs/pull-request-checklist.md)
+   - [Code review guidelines](docs/code-review-guidelines.md)
+   - [Definition of Done](docs/definition-of-done.md)
+
+2. Then review release and go-live governance:
+   - [UAT readiness checklist](docs/uat-readiness-checklist.md)
+   - [Cutover planning guide](docs/cutover-planning-guide.md)
+   - [Hypercare runbook](docs/hypercare-runbook.md)
+
+3. Finally, review operational control and stabilization practices:
+   - [RAID governance notes](docs/raid-governance-notes.md)
+   - [Incident RCA template](docs/incident-rca-template.md)
+   - [ERP migration stabilization checklist](docs/erp-migration-stabilization-checklist.md)
+   - [Operational readiness checklist](docs/operational-readiness-checklist.md)
+
+The templates folder contains reusable artifacts for sign-off, release notes, cutover planning, hypercare tracking, RAID logs, incident review, and operational handover.
+
 ## Purpose
 
 The purpose of this playbook is to document simple and practical software delivery practices that help teams build, review, release, and maintain software with better structure and quality.
