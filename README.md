@@ -78,10 +78,9 @@ A good delivery process helps technical teams move with speed, but without losin
 
 Public portfolio version.
 
-This repository is part of my professional GitHub portfolio and provides practical references for software delivery, technical team leadership, and process improvement.
+This repository is part of my professional GitHub portfolio and provides practical references for software delivery, technical team leadership, release governance, UAT, cutover, hypercare, RAID management, incident review, operational readiness, and process improvement.
 
-The content will continue evolving as new practices, templates, and delivery notes are added.
-
+The content will continue evolving as new practices, templates, examples, and delivery notes are added.
 ## Author
 
 **Anibal Arias**  
