@@ -4,6 +4,8 @@ A lightweight software delivery playbook with notes, templates, and practical gu
 
 This repository is focused on improving delivery consistency, code review quality, release discipline, and team alignment.
 
+![Software Delivery Playbook lifecycle](assets/diagrams/software-delivery-playbook-flow.png)
+
 ## Repository Contents
 
 - [Branching strategy](docs/branching-strategy.md)
